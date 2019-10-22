@@ -25,7 +25,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.geode</groupId>
-			<artifactId>spring-geode-starter</artifactId>
+			<artifactId>spring-gemfire-starter</artifactId>
 			<version>1.2.0.RELEASE</version>
 		</dependency>
 
